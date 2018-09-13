@@ -1,0 +1,3 @@
+[submodule "lib/random-walks"]
+	path = lib/random-walks
+	url = git@github.com:mechanicalscribe/random-walks.git

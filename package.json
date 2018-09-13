@@ -1,0 +1,31 @@
+{
+  "name": "random-mac-desktop",
+  "version": "0.0.1",
+  "description": "Generate images programmatically and reset the desktop on a Mac at some interval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilson428/random-mac-desktop.git"
+  },
+  "keywords": [
+    "desktop",
+    "random"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilson428/random-mac-desktop/issues"
+  },
+  "homepage": "https://github.com/wilson428/random-mac-desktop#readme",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "canvas": "^1.6.12",
+    "minimist": "^1.2.0",
+    "npm": "^6.4.1",
+    "screenres": "^2.0.1",
+    "wallpaper": "^3.0.0"
+  }
+}
